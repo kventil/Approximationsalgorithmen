@@ -1,0 +1,8 @@
+*.log
+*.out
+*.aux
+*.pdfsync
+*.gz
+*.thm
+*.toc
+*.DS_Store
