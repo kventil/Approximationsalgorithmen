@@ -1,6 +1,8 @@
 # Approximationsalgorithmen
 
 Eine Ausarbeitung von [Robert Bahmann][0] zum Thema Approximationsalgorithmen im
-Rahmen des Fachseminars an der Hochschule Rhein Main
+Rahmen des Fachseminars ["Algorithmik und deren Grenzen"][1] an der [Hochschule Rhein Main][2]
 
-[0]: HTTP://kv0.org/blog
+[0]: http://kv0.org/blog        
+[1]: http://www.cs.hs-rm.de/~reith/lehre/Fach09/
+[2]: http://hs-rm.de
